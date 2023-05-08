@@ -1,0 +1,11 @@
+Model Information:
+* title:	Breeze-Class Transport Hovercraft
+* source:	https://sketchfab.com/3d-models/breeze-class-transport-hovercraft-3efc2a2c81a94cecbf3f7cdf2e343514
+* author:	WH1T3_No1SE (https://sketchfab.com/przemyslawwojtkun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Breeze-Class Transport Hovercraft" (https://sketchfab.com/3d-models/breeze-class-transport-hovercraft-3efc2a2c81a94cecbf3f7cdf2e343514) by WH1T3_No1SE (https://sketchfab.com/przemyslawwojtkun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

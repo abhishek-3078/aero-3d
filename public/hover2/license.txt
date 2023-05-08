@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hovercraft
+* source:	https://sketchfab.com/3d-models/hovercraft-27a2528f38874e939af11039ffb2e6cd
+* author:	BeastSri (https://sketchfab.com/BeastSri)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hovercraft" (https://sketchfab.com/3d-models/hovercraft-27a2528f38874e939af11039ffb2e6cd) by BeastSri (https://sketchfab.com/BeastSri) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
